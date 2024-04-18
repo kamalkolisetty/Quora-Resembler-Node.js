@@ -69,4 +69,7 @@ The application will start running on port 3000 by default. You can access it by
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-## Working
+## Demonstration
+
+![Example Image](Screenshot (496).png)
+
