@@ -1,0 +1,31 @@
+h1{
+color:blue
+}
+
+.post{
+background-color: antiquewhite;
+}
+
+.username{
+    font-style: italic;
+}
+a{
+
+   text-decoration: none; 
+   background-color:aquamarine;
+   font-size: large;
+padding: 1.5rem;
+
+}
+.post{
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.post a{
+    text-decoration: none; 
+    background-color:aquamarine;
+    font-size: medium;
+    padding: 0.4rem;
+   
+
+}
