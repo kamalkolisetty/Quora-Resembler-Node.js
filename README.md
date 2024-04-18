@@ -71,10 +71,40 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## Demonstration
 
-###Initializing on local host at port number 3000 using cmd
+### Initializing on local host at port number 3000 using cmd
+
 ![cmd](e1.png)
 
 ![cmd](e2.png)
 
 ![cmd](e3.png)
+
+![cmd](e4.png)
+
+![cmd](e5.png)
+
+![cmd](e6.png)
+
+![cmd](e7.png)
+
+![cmd](e8.png)
+
+![cmd](e9.png)
+
+![cmd](e10.png)
+
+![cmd](e11.png)
+
+![cmd](e12.png)
+
+![cmd](e13.png)
+
+## Thank You..
+
+
+
+
+
+
+
 
